@@ -10,6 +10,8 @@ HTML/CSS-сайта интернет-магазина или каталога т
 Основа проекта — HTML/CSS-сайт из контрольной работы №1 (`kr1-html-css-shop`).
 В каталоге представлены товары Tommy Hilfiger: поло, рубашка и рюкзак.
 
+## Ссылка на GitHub Pages:https://marceline-ad.github.io/kr3-responsive-shop/
+
 
 ## Как посмотреть проект
 
